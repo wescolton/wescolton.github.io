@@ -16,7 +16,7 @@
 title: UNITE is thinking
 email: w@unite.is
 description: >- # this means to ignore newlines until "baseurl:"
-  Hard-earned thoughts about life by Wes Colton. 
+  Hard-earned thoughts about life by Wes Colton.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: wescolton
